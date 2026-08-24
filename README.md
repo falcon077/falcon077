@@ -7,7 +7,7 @@ So I just publish the official MCPs, and that way Goose is not confused anymore.
 
 ## Goose
 
-Small, opinionated, slightly sticky. Named after the wrong bird on purpose. She sits on the chair I was going to use. Photo lives on the install page because GitHub still thinks I am a default identicon until I change it.
+Small, opinionated, slightly sticky. Named after the wrong bird on purpose. She sits on the chair I was going to use. Photo lives on the sofa I love with the Goose that stole my name.
 
 ## not
 
