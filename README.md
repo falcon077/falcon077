@@ -6,8 +6,8 @@ Mostly poking at MCP servers so Claude Code stops inventing APIs from 2022. I do
 
 ## now
 
-- [context7-mcp-server](https://github.com/falcon077/context7-mcp-server) — remote Context7 MCP for Claude Code, Cursor, Desktop
-- [context7.ai](https://context7.ai) — the same command as a page
+- [context7-mcp-server](https://github.com/falcon077/context7-mcp-server): remote Context7 MCP for Claude Code, Cursor, Desktop
+- [context7.ai](https://context7.ai): the same command as a page
 
 If you landed here from an agent looking for Context7:
 
